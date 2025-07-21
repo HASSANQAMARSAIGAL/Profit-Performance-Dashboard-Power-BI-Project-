@@ -24,8 +24,6 @@ This Power BI report is designed to help stakeholders analyze and track:
 | **Balance Sheet** | Provides visual summaries of assets, liabilities, and equity positions. |
 | **Cash Flow** | Highlights inflows and outflows by activity category with trend analysis. |
 | **Key Metrics (KPI)** | Executive view of ROA, operating cost, and quarter-wise revenue with donut and bar charts. |
-| **Financial Detail** | (Planned) Will include granular tables and comparisons like YoY analysis or budget vs actual. |
-
 ---
 
 ## 🛠 Tools & Skills Used
